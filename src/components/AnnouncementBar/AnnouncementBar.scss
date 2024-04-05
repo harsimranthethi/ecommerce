@@ -1,0 +1,18 @@
+// AnnouncementBar.scss
+
+.announcement-bar {
+    background-color: #000000; /* Change the color to your preference */
+    color: #ffffff; /* Change the text color to your preference */
+    padding: 1px 20px; /* Adjust padding to make it thinner */
+    text-align: center;
+    font-size: 16px; /* Keep the font size the same */
+    font-weight: bold;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ensure it's above other content */
+  }
+  
+
